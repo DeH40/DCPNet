@@ -1,3 +1,3 @@
 # DCPNet: Dilated Convolution Pyramid Networks For Generating High-Quality Crowd Density Maps
 
-Once the paper is publicly published, we will make the code publicly available.
+We will open source the code of DCPNet after the publication of the paper
